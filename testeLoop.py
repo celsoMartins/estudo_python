@@ -1,3 +1,5 @@
+# Testando else no while
+
 n = 10
 
 while n > 0:
